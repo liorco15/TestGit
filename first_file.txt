@@ -9,7 +9,6 @@ x = 15
 x+2=4
 =======
 bla bla bla
->>>>>>> 4246130dac0772df39961b8bd5caf594b86cb8e5
-vika hamalka 
-3> maradona z"l 
->>>>>>> 3125248044f6927c7755198401ed73ff9da85a72
+
+
+Vika / Dina
